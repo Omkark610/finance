@@ -1,2 +1,2 @@
-# finance
+# finance 101
 finance
